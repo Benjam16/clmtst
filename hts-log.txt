@@ -1,0 +1,11 @@
+HTTrack3.49-2 launched on Thu, 25 May 2023 18:14:29 at https://www.miladycolombia.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://www.miladycolombia.com/ -O "/Users/oneilbenjamin/websites/mildy" -n -%P -N100 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 28 seconds : 15 links scanned, 14 files written (19971453 bytes overall) [19187882 bytes received at 685281 bytes/sec], 1152578 bytes transferred using HTTP compression in 10 files, ratio 31%, 7.5 requests per connection
+(No errors, 0 warnings, 0 messages)
